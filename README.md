@@ -1,4 +1,4 @@
-# DETS-Correction-System
+# DETS Correction System
 ![Python Version](https://img.shields.io/badge/Python-3.13.1-blue)
 
 The DETS Correction System is an automated tool designed to correct exams by processing scanned images of answer sheets, extracting student responses, comparing them with the correct answers, and generating detailed Excel reports.
