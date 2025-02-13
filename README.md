@@ -95,17 +95,16 @@ Programs/
 ## Folder Structure:
 ```
 DETS-Correction-System/
-├── Exams/ # Examples for full real exams corrected by the program
+├── Exams/ # Examples for full real exams to test by the program
+│   ├── 10 tests/
+│   ├── 30 tests/
+│   └── 60 tests/
 ├── Programs/
 │   ├── DETS Correction System/ # The non-graphical program
-│   |   ├── 10 tests/
-│   |   ├── 30 tests/
-│   |   ├── 60 tests/
 │   |   ├── Data/
 │   |   └── DETS Correction System.py
 │   ├── GUI Version/ # The Graphical Program
 │   |   ├── Data/
-│   |   ├── Images/
 │   |   ├── Tesseract-OCR/
 │   |   └── GUI DETS Correction System.py
 │   └── Serial Number Maker/ # The code that automatic create serial numbers
