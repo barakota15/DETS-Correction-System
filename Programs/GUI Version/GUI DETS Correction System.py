@@ -818,4 +818,14 @@ if os.path.isdir(Excel_path):
 else:
     os.makedirs(Excel_path)
 
+if os.path.isdir(output_directory):
+    pass
+else:
+    os.makedirs(output_directory)
+
+if os.path.isdir(result_directory):
+    pass
+else:
+    os.makedirs(result_directory)
+
 app.mainloop()
