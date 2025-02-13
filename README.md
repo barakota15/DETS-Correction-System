@@ -38,7 +38,8 @@ The DETS Correction System automates the process of grading multiple-choice exam
 
 ### Prerequisites
 - Python 3.13.1
-- Tesseract OCR: Install from [Tesseract OCR GitHub](https://github.com/tesseract-ocr/tesseract/blob/main/README.md).
+- Tesseract OCR: Install from [Sourceforge](https://sourceforge.net/projects/tesseract-ocr-alt/files/).
+- Remeber to install it in `C:\Program Files\Tesseract-OCR\` path.
 
 ### Install Required Packages
 Run the following commands to install the required Python packages:
