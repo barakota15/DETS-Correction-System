@@ -127,4 +127,4 @@ This project is licensed under the [MIT License](https://github.com/barakota15/D
 
 ## Author
 
-SubNaut by Barakota15 — version 1.2
+DETS Correction System by Barakota15 — version 1.2
