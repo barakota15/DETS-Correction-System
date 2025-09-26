@@ -13,8 +13,10 @@ The DETS Correction System is an automated tool designed to correct exams by pro
 4. [Usage](#usage)
 5. [Source Code](#source-code)
 6. [Folder Structure](#folder-structure)
+7. [Contributing](#Contributing)
 8. [License](#license)
 9. [Acknowledgments](#acknowledgments)
+10. [Author](#Author)
 
 ---
 
@@ -108,23 +110,20 @@ DETS-Correction-System/
 --- 
 
 ## Contributing
-
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
 ## License
-This project is licensed under the [MIT License](https://github.com/barakota15/DETS-Correction-System/blob/main/LICENSE). See the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/barakota15/DETS-Correction-System/blob/main/LICENSE). See the `LICENSE` file for details.
 
 ---
 
 ## Acknowledgments
-
 - Special thanks to the developers of [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/blob/main/README.md) for their powerful OCR engine.
 - Thanks to the contributors of the Python libraries used in this project.
 
 ---
 
 ## Author
-
 DETS Correction System by Barakota15 — version 1.2
