@@ -1,0 +1,8 @@
+opencv-python-headless
+opencv-python
+numpy
+openpyxl
+pytesseract
+Pillow
+customtkinter
+pytest-shutil
