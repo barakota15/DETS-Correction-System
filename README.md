@@ -1,11 +1,11 @@
 # DETS Correction System
-![Python Version](https://img.shields.io/badge/Python-3.13.1-blue)
+![Python Version](https://img.shields.io/badge/Python-3.13.1-blue) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 The DETS Correction System is an automated tool designed to correct exams by processing scanned images of answer sheets, extracting student responses, comparing them with the correct answers, and generating detailed Excel reports.
 
 ---
 
-## Table of Contents:
+## Table of Contents
 
 1. [Overview](#overview)
 2. [Features](#features)
@@ -18,14 +18,14 @@ The DETS Correction System is an automated tool designed to correct exams by pro
 
 ---
 
-## Overview:
+## Overview
 The DETS Correction System automates the process of grading multiple-choice exams. It uses Optical Character Recognition (OCR) to extract student responses from scanned images, compares them with the correct answers, and generates Excel files containing the results. The system also supports serial number extraction and encoding for unique test identification.
 
 ![DETS Correction System](https://github.com/user-attachments/assets/0021f8fd-afc3-474d-9a20-064ee340e7c0)
 
 ---
 
-## Features:
+## Features
 - **Automated Grading**: Automatically grades exams based on predefined answer keys.
 - **Serial Number Handling**: Extracts and encodes serial numbers from exam sheets.
 - **Excel Reports**: Generates detailed Excel reports with color-coded correctness indicators.
@@ -34,7 +34,7 @@ The DETS Correction System automates the process of grading multiple-choice exam
 
 ---
 
-## Installation:
+## Installation
 
 ### Prerequisites
 - Python 3.13.1
@@ -42,25 +42,17 @@ The DETS Correction System automates the process of grading multiple-choice exam
 - Remeber to install it in `C:\Program Files\Tesseract-OCR\` path.
 
 ### Install Required Packages
-Run the following commands to install the required Python packages:
+Run the following command to install the required Python packages:
 
 ```bash
-pip install opencv-python-headless opencv-python
-pip install numpy
-pip install openpyxl
-pip install pytesseract
-pip install Pillow
-pip install customtkinter
-pip install pytest-shutil
-pip install os-sys
-pip install threaded
+pip install -r requirements.txt
 ```
 
 ---
 
-## Usage:
+## Usage
 
-### For DETS Serial Number Maker:
+### For DETS Serial Number Maker
 ```
 Programs/
 └── Serial Number Maker/
@@ -72,7 +64,7 @@ Programs/
 2. Run the python code `DETS Serial Number Maker.py`.
 3. Reopen the `Students Data.xlsx` file.
 
-### For DETS Correction System:
+### For DETS Correction System
 
 1. Run the program by python from the `Programs/GUI Version/GUI DETS Correction System.py`
 2. Follow the on-screen instructions:
@@ -85,14 +77,14 @@ Programs/
 
 ---
 
-## Source Code:
+## Source Code
 
 - For non-graphical code you can find it here: `Programs/DETS Correction System/DETS Correction System.py`
 - For graphical code you can find it here: `Programs/GUI Version/GUI DETS Correction System.py`
 
 ---
 
-## Folder Structure:
+## Folder Structure
 ```
 DETS-Correction-System/
 ├── Exams/ # Examples for full real exams to test by the program
@@ -115,18 +107,24 @@ DETS-Correction-System/
 
 --- 
 
-## Contributing:
+## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
-## License:
+## License
 This project is licensed under the [MIT License](https://github.com/barakota15/DETS-Correction-System/blob/main/LICENSE). See the LICENSE file for details.
 
 ---
 
-## Acknowledgments:
+## Acknowledgments
 
 - Special thanks to the developers of [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/blob/main/README.md) for their powerful OCR engine.
 - Thanks to the contributors of the Python libraries used in this project.
+
+---
+
+## Author
+
+SubNaut by Barakota15 — version 1.2
