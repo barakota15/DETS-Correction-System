@@ -115,7 +115,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 ---
 
 ## License
-This project is licensed under the [MIT License](https://github.com/barakota15/DETS-Correction-System/blob/main/LICENSE). See the `LICENSE` file for details.
+This project is licensed under the [MIT License](https://github.com/barakota15/DETS-Correction-System?tab=MIT-1-ov-file). See the `LICENSE` file for details.
 
 ---
 
@@ -126,4 +126,4 @@ This project is licensed under the [MIT License](https://github.com/barakota15/D
 ---
 
 ## Author
-DETS Correction System by Barakota15 — version 1.2
+**DETS Correction System** by *Barakota15* — version 1.2
